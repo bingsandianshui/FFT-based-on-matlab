@@ -2,4 +2,4 @@
 
 matlab打开example.m
 
-by: 工程师看海
+公众号：工程师看海
